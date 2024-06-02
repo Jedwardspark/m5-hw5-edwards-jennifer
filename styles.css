@@ -2,11 +2,15 @@ p {
     text-indent: 30px;
  }
  body {
-    background-color: powderblue;
-  }
+    background-color: #DFDBE5
+    }
+    background-image: 
   h1 {
-    color: blue;
+   color: rgb(4, 4, 99);
   }
   p {
-    color: rgb(62, 4, 142);
+    color: rgb(4, 4, 99);
+  }
+  body {
+    background-image: url("grayscalebackground.jpg");
   }
