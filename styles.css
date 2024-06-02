@@ -5,11 +5,9 @@ p {
     background-color: #DFDBE5;
     }
     img {
-      float:left;
-      
-    max-width: 800px;
-    margin: 24px auto;
-  }
+      float:left;}
+    {max-width: 800px;
+    margin: 24px auto;}
   h1 {
    color: rgb(53, 15, 133);
   }
