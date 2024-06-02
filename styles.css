@@ -2,14 +2,20 @@ p {
     text-indent: 30px;
  }
  body {
-    background-color: #DFDBE5
+    background-color: #DFDBE5;
     }
-    background-image: 
+  body {
+    max-width: 800px;
+    margin: 24px auto;
+  }
   h1 {
-   color: rgb(4, 4, 99);
+   color: rgb(53, 15, 133);
+  }
+  h2 {
+    color:blueviolet;
   }
   p {
-    color: rgb(4, 4, 99);
+    color: rgb(53, 15, 133);
   }
   body {
     background-image: url("grayscalebackground.jpg");
