@@ -3,7 +3,7 @@ p {
  }
  body {
     background-color: #DFDBE5;
-    }
+  }
     img {
       float:left;}
   h1 {
@@ -21,4 +21,27 @@ p {
  header> nav {
   float: right;
  }
- 
+ section {
+  float:right;
+  max-width: 700px;
+ }
+ footer {
+  float:left;
+max-width: 700px; 
+}
+aside {
+  background-color:white;
+  width: 15.5%;
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+  margin-left: 25px;
+}
+aside {
+  float:right;
+  max-width: 400px;
+}
+footer {
+  float:center;
+}
+
