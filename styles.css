@@ -1,34 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  }
+  header {
+    background-color: aliceblue;
+    padding: 40px;
+  }
 p { 
     text-indent: 30px;
- }
+  }
  body {
     background-color: #DFDBE5;
-  }
-    img {
-      float:left;}
+       }
+img {
+      float:left;
+    }
   h1 {
    color: rgb(53, 15, 133);
-  }
+    }
   h2 {
     color:blueviolet;
-  }
+      }
   p {
     color: rgb(53, 15, 133);
-  }
+     }
   body {
     background-image: url("grayscalebackground.jpg");
-  }
+        }
  header> nav {
   float: right;
- }
- section {
-  float:right;
-  max-width: 700px;
- }
- footer {
-  float:left;
-max-width: 700px; 
-}
+            }
 aside {
   background-color:white;
   width: 15.5%;
@@ -36,12 +38,4 @@ aside {
   vertical-align: top;
   padding: 20px;
   margin-left: 25px;
-}
-aside {
-  float:right;
-  max-width: 400px;
-}
-footer {
-  float:center;
-}
-
+      }
