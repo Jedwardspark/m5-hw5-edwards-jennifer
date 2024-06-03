@@ -3,6 +3,7 @@
   padding: 0;
   border: 0;
   }
+  
   body {
     background-color: #DFDBE5;
     background-image: url("grayscalebackground.jpg");
@@ -11,7 +12,8 @@
   header {
     background-color:rgb(235, 174, 241);
     padding: 40px;
-    border-bottom: solid 5px blueviolet
+    border-bottom: solid 5px blueviolet;
+    margin: bottom 20px;
   }
 
   h1 {
@@ -24,6 +26,7 @@
     width: 60%;
     text-align:right;
   }
+
   nav a {
    background-color:blueviolet;
     color:antiquewhite;
@@ -48,6 +51,7 @@
     width: 70%;
     background-color:rgb(248, 228, 231);
     padding: 20px;
+    margin: top 20px;
   }
 
   aside {
@@ -58,10 +62,14 @@
     padding: 20px
   }
 
-  img {
+  .headshot {
       float:left;
-  }
+      margin-right: 20px;  
+    }
 
+  .subheading {
+    font-size: 32px;
+  }
 
   h1 {
    background-color:blueviolet;
@@ -83,4 +91,6 @@
 
   p {
     color: rgb(53, 15, 133);
+    margin: 15px 0;
+    line-height: 140%;
   }
