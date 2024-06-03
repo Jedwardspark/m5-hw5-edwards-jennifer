@@ -20,6 +20,13 @@
   nav {
     display: inline-block;
     width: 60%;
+    text-align:right;
+  }
+  nav a {
+   background-color:blueviolet;
+    color:antiquewhite;
+    text-decoration: none;
+    padding: 10px 15px;
   }
 
   .container {
