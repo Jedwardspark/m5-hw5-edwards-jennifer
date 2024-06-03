@@ -54,37 +54,26 @@
     margin: top 20px;
   }
 
-  aside {
-    background-color: rgb(248, 228, 231);
-    width: 20%;
-    display: inline-block;
-    vertical-align: top;
-    padding: 20px
-  }
-
   .headshot {
-      float:left;
-      margin-right: 20px;  
-    }
+    float:left;
+    margin-right: 20px;  
+  }
 
   .subheading {
     font-size: 32px;
-  }
-
-  h1 {
-   background-color:blueviolet;
-   color:antiquewhite;
-   text-decoration: none;
-   padding: 10px 15px;
-   border-radius: 5px;
-   text-align: center;
-  }
-
-  h2 {
     color:blueviolet;
     text-align: center;
   }
   
+  h1 {
+    background-color:blueviolet;
+    color:antiquewhite;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+   }
+ 
   h3 {
     text-align: center;
   }
@@ -93,4 +82,18 @@
     color: rgb(53, 15, 133);
     margin: 15px 0;
     line-height: 140%;
+  }
+
+  aside {
+    background-color: rgb(248, 228, 231);
+    width: 20%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px
+  }
+  footer {
+    background-color:rgb(235, 174, 241);
+    padding: 5px;
+    border-top: solid 5px blueviolet;
+    text-align: center;
   }
